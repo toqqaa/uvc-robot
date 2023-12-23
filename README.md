@@ -1,7 +1,7 @@
 ##  Gazebo 
 
 
-roslaunch uvc_robot robot_description_gazebo.launch 
+roslaunch uvc_robot gazebo.launch 
 
 
 ##  Rviz
